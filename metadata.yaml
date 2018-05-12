@@ -1,0 +1,27 @@
+_repo: Years-of-Plenty_33096
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Ivor John Carnegie
+    birthdate: 1891
+    deathdate: 1974
+    gutenberg_agent_id: '36201'
+    url: http://www.gutenberg.org/2009/agents/36201
+description: ''
+gutenberg_issued: '2010-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boarding schools -- England -- Fiction'
+- !lcsh 'University of Oxford -- Fiction'
+- !lcc 'PR'
+title: Years of Plenty
+url: http://www.gutenberg.org/ebooks/33096
